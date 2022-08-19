@@ -110,8 +110,6 @@ def main():
   insertnode = State(3,3,1)
   solution, Level = bfs_search(insertnode)
   count = 0
-  print ("Name : Vaibhav Sapkota")
-  print ("Roll No. 41")
   print ("\n")    
   print ("Solution Path:" )
   print ("\n")    
